@@ -1,5 +1,8 @@
 class ChattyStudent
   
-  def 
+  def hello
+    super
+    puts 
+  end 
   
 end
